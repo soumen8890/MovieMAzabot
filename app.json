@@ -19,15 +19,15 @@
     "repository": "https://github.com/soumen8890/MovieMAzabot" ,
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6143983492:AAFdCuqtpKbetmmMf5a_-eBkBfWG9bCu2Wc.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "20919625",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "40168846bf06f4ff443f0f7a4182bf8d",
             "required": true
         },
         "CHANNELS": {
@@ -35,7 +35,7 @@
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "6233910543",
             "required": true
         },
         "PICS": {
@@ -43,7 +43,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001869265387",
             "required": true
         },
         "AUTH_USERS": {
@@ -55,9 +55,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
-            "required": true
-        },
+            "description": "mongodb+srv://Soumen900:Soumen900@cluster0.of7wg0s.mongodb.net/?retryWrites=true&w=majority". 
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
             "required": false
