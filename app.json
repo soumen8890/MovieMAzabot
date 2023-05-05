@@ -19,7 +19,7 @@
     "repository": "https://github.com/soumen8890/MovieMAzabot" ,
     "env": {
         "BOT_TOKEN": {
-            "description": "6143983492:AAFdCuqtpKbetmmMf5a_-eBkBfWG9bCu2Wc.",
+            "description": "enter the key" ,
             "required": true
         },
         "API_ID": {
